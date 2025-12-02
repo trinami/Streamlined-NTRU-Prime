@@ -11,7 +11,7 @@ categories = ["algorithms", "cryptography"]
 readme = "readme.md"
 
 [dependencies]
-rand = "0.6.0"
+rand = "0.8.5"
 sha2 = "0.8.0"
 hex = {version = "0.3.2", optional = true}
 serde = {version = "1.0.80", optional = true}
